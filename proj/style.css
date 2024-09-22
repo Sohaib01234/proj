@@ -1,0 +1,193 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700; 
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; 
+}
+#high{
+    color:  black;
+    background-color: #edfbfe;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    background-image: url(images/bg-hero-desktop.svg);
+    background-repeat: no-repeat;
+    margin: -10px;
+    background-position: top;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;   
+    height: 600px;
+   
+
+}
+#mok{
+    width: 600px;
+    position: absolute;
+    top: 150px;
+    left: 700px;
+    
+}
+#get{
+    position: absolute;
+    top: 420px;
+    left: 140px;
+    background-color: #fe52c0;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    width: 300px;
+    height: 50px;/
+    box-shadow: 0px 5px 7px #bcd3d8;
+}
+#try{
+    position: absolute;
+    top: 40px;
+    left: 1100px;
+    background-color: #ffffff;
+    color: #101010;
+    border: none;
+    border-radius: 30px;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    
+    box-shadow: 0px 3px 5px #bcd3d8;
+}
+#the{
+    position: absolute;
+    top: 200px;
+    left: 123px;
+    max-width: 30%;
+    text-align: center;
+}
+.p1{
+    max-width: 30%;
+    position: absolute;
+    top: 300px;
+    left: 140px;
+   
+}
+.sc{
+    color:  black;
+    background-color: #ffffff;
+    padding: 20px;
+    display: inline-block;
+    margin: 20px;
+    margin-left: 65px;
+    margin-top: 40px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;   
+    height: 350px;
+    width: 1300px;
+    box-shadow: 0px 0px 10px #d4d4d4;
+    border-radius:15px;
+    
+}
+#sc1{
+    display:flex;
+    margin-top: 130px;
+}
+.pepo{
+    max-width: 30%;
+}
+.pp{
+    max-width: 35%;
+    position: relative;
+    left: -200px; 
+    top: 20px; 
+ 
+}
+.hh{
+    position: relative;
+    left: -40px; 
+    top: -50px;
+}
+#hh2{
+    position: relative;
+    left: 660px; 
+    top: -50px;
+}
+#pp2{
+    position: relative;
+    left: 400px; 
+    top: 20px;
+}
+#pepo2{
+    position: relative;
+    left: -660px;
+}
+#low{
+    background-color: #00252E;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    margin: -10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;   
+    height: 350px;
+    color: #ffffff;
+}
+#rea{
+    color:  black;
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    width:650px;
+    height:180px ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px #00252e38;
+    text-align: center;
+    position: relative;
+    left: 360px; 
+    top: 100px;
+  }
+  
+  #reab {
+    position: absolute;
+    top: 120px;
+    left: 165px;
+    background-color: #fe52c0;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    width: 350px;
+    height: 60px;/
+    box-shadow: 0px 5px 7px #bcd3d8;
+  }
+#reah{
+    position: absolute;
+    top: 40px;
+}
+.loww{
+    width:1500px ;
+    margin: 100px;
+    text-align: center;
+}
+#reab:hover{
+    background-color: #ff76cd;
+    cursor: pointer;}
+    #get:hover{
+        background-color: #ff76cd;
+        cursor: pointer;}
+        #try:hover{
+            background-color: #f4f4f4;
+            cursor: pointer;}
